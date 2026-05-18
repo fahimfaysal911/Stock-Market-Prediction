@@ -1,0 +1,2 @@
+This research presents a stock market prediction system using the LSTM deep learning model to forecast future stock prices from historical market data. The model analyzes patterns from previous stock prices and achieved the best performance using a 60-day sequence length. The study shows that LSTM is effective for time-series forecasting, although external factors like news and market sentiment were not included.
+Dataset Link - https://www.kaggle.com/datasets/jacksoncrow/stock-market-dataset?resource=download
